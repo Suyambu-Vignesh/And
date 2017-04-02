@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d("isUni", isOneStepAway("plae", "blae") + "");
         Log.d("isUni", isOneStepAway("plae", "bae") + "");
         Log.d("isUni", isOneStepAway("plae", "plvkdjvpdke") + "");
-
         Log.d("isUni", compress("aaabwwccccc"));
         Log.d("isUni", compress("acbnmjkiy"));
 
